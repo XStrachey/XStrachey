@@ -9,5 +9,7 @@ I work with data: cleaning, modeling, and analyzing it to explore social systems
 **2. Visual Effects**
 
 I also craft motion and visual systems—animations, generative designs, and effects that bring ideas to life on screen. It’s where code becomes expressive.
+
 These two areas rarely overlap, but together they shape how I think, build, and explore.
+
 Feel free to explore, get inspired, or reach out if you’d like to talk about research, design, or anything in between. Let’s make something thoughtful and beautiful together.
