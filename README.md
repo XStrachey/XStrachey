@@ -1,8 +1,8 @@
-Welcome to XStrachey's Code Canvas! 🎉
+Hello there! I'm XStrachey, and this is my little slice of the coding multiverse. Here, you’ll find my work across two distinct—but equally meaningful—domains:
 
-Hello there! I'm **XStrachey**, and this is my little slice of the coding multiverse. Here, you’ll find my work in two completely unrelated (but equally fascinating) realms:
-
-1. **Data Processing**: I also dive deep into the world of data—cleaning, crunching, and transforming it into something useful and meaningful. It’s the calm, logical yin to my visual effects yang.  
-2. **Visual Effects**: I love crafting eye-catching animations and stunning visuals that make screens come alive. If it glimmers, moves, or dazzles, it’s probably something I’m excited about.
-
-While these two worlds rarely overlap, they’re both close to my heart and keep me endlessly curious. Feel free to explore, get inspired, or drop me a line if you’d like to chat about code, pixels, or patterns. Let’s create something awesome together! 🚀
+Data & Research
+I work with data: cleaning, modeling, and analyzing it to explore social systems and behavioral patterns. This is where I apply technical tools to investigate how people and institutions interact in the real world.
+Visual Effects
+I also craft motion and visual systems—animations, generative designs, and effects that bring ideas to life on screen. It’s where code becomes expressive.
+These two areas rarely overlap, but together they shape how I think, build, and explore.
+Feel free to explore, get inspired, or reach out if you’d like to talk about research, design, or anything in between. Let’s make something thoughtful—and beautiful—together.
