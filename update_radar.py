@@ -25,8 +25,9 @@ chart = {
         "datasets": [{
             "label": "Language Usage",
             "data": data,
-            "backgroundColor": "rgba(34,202,236,0.2)",
-            "borderColor": "rgba(34,202,236,1)"
+            "backgroundColor": "rgba(128, 0, 128, 0.05)",
+            "borderColor": "rgba(128, 0, 128, 1)",
+            "borderWidth": 2
         }]
     }
 }
