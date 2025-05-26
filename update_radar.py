@@ -33,7 +33,7 @@ chart = {
 }
 
 encoded_chart = urllib.parse.quote(json.dumps(chart))
-img_url = f"https://quickchart.io/chart?c={encoded_chart}"
+img_url = f"https://quickchart.io/chart?c={encoded_chart}&width=360&height=360"
 
 start_tag = "<!-- radar-start -->"
 end_tag = "<!-- radar-end -->"
