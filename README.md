@@ -1,17 +1,15 @@
-# XStrachey
+Hello! I’m XStrachey — a researcher and engineer working at the intersection of economics, data science, and computational modeling.
 
-Hello there!
+My work spans two complementary areas:
 
-I'm XStrachey, and this is my little slice of the coding multiverse. Here, you’ll find my work across two distinct but equally meaningful domains:
+**1. Data, Modeling & Economic Research**
 
-**1. Data & Research**
+I use Python, R, and computational tools to study platform markets, pricing behavior, and urban systems. My projects include causal inference pipelines, structural modeling, network optimization, and agent-based simulations. Much of my work explores how technology, institutions, and incentives shape real-world economic outcomes.
 
-I work with data: cleaning, modeling, and analyzing it to explore social systems and behavioral patterns. This is where I apply technical tools to investigate how people and institutions interact in the real world.
+**2. Visual & Generative Systems**
 
-**2. Visual Effects**
+Outside of research, I build visual and generative systems, procedural graphics, creative coding, and small experiments in computational aesthetics. For me, this is where code becomes expressive and exploratory.
 
-I also craft motion and visual systems—animations, generative designs, and effects that bring ideas to life on screen. It’s where code becomes expressive.
+These two domains reflect how I think: analytical, systems-oriented, and visually curious.
 
-These two areas rarely overlap, but together they shape how I think, build, and explore.
-
-Feel free to explore, get inspired, or reach out if you’d like to talk about research, design, or anything in between. Let’s make something thoughtful and beautiful together.
+Feel free to browse, fork, or reach out, and I am happy to discuss research, code, or creative projects.
