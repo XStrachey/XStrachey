@@ -1,4 +1,4 @@
-Hello! I’m XStrachey — a researcher and engineer working at the intersection of economics, data science, and computational modeling.
+Hello! I’m XStrachey — a researcher and engineer working at the intersection of economics, data science, and computational modeling. You may also find my personal website of interest: https://xstrachey.github.io
 
 My work spans two complementary areas:
 
@@ -42,5 +42,3 @@ Feel free to browse, fork, or reach out, and I am happy to discuss research, cod
 </div>
 
 </td></tr></table>  
-
-You may also find my personal website of interest: https://xstrachey.github.io
